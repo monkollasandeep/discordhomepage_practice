@@ -1,0 +1,19 @@
+.loginbtn_homepage {
+    color:black;
+    border-radius: 24px;
+    background-color: white;
+    border-width: 1px;
+    height: 42px;
+    width: 72px;
+}
+
+
+.nav_link_item {
+    color: white !important;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.backg {
+    background-color: blue;
+}

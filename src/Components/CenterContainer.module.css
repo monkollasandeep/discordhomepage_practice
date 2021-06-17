@@ -1,0 +1,40 @@
+.container_bg {
+  background-color: blue;
+  height: 100vh;
+  /* text-align: center; */
+}
+
+.container_head {
+  font-display: "Ginto Normal", "Whitney", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+  color: white;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  font-style: inherit;
+  vertical-align: baseline;
+  font-family: "Ginto Nord", "Whitney", "Helvetica Neue", "Helvetica", "Arial",
+    sans-serif,;
+  font-weight: 800;
+  line-height: 95%;
+  text-transform: uppercase;
+  text-rendering: geometricPrecision;
+  font-size: 56px;
+  text-align: center;
+}
+
+.container_text {
+  color: white;
+  padding-top: 60px;
+  padding-bottom: 30px;
+}
+
+.container_image {
+  margin-right: 12px;
+  overflow: hidden;
+}
+
+.container_image_space {
+    padding: 25px;
+}

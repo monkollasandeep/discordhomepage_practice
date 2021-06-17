@@ -1,0 +1,43 @@
+.container{
+	background-color: white;
+	.row{
+		margin-top: 10%;
+		.col-md-8, .col{
+			.image{
+				width: 100%;
+				height:  100%;
+				margin-left: -20px;
+			}
+		}
+        .col-sm-12, .col-xs-12, .col{
+			.image{
+				width: 100%;
+				height:  100%;
+				margin-left: -20px;
+			}
+		}
+		.col-md-4, .col{
+			.description{
+				padding: 10px;
+				font-family: "Times New Roman", Georgia, serif;
+				font-size: 150%;
+				.h2{
+					font-weight: 900;
+					line-height: 120%;
+					font-family: "Ginto Normal","Whitney","Helvetica Neue","Helvetica","Arial",sans-serif;
+					font-size: 32px;
+					font-size: clamp(20px,4vw,40px);
+                    text-align: center;
+				}
+				.text{
+					font-size: 20px;
+					font-size: clamp(16px,2vw,20px);
+					line-height: 1.625;
+                    font-family: "Times New Roman", Georgia, serif;
+                    text-align: center;
+				}
+			}
+		}
+    
+	}
+}
