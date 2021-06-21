@@ -1,0 +1,182 @@
+.centercontainer {
+  text-align: center;
+}
+
+.centerhead {
+  font-family: poppins, sans-serif;
+  font-size: 36px;
+  padding-top: 15px;
+  font-weight: 700;
+}
+
+.centertext {
+  font-size: 28px;
+  color: #405868;
+  font-family: "inter", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 1.55;
+  padding: 30px 0;
+  text-align: center;
+}
+.centerbutton {
+  text-align: center;
+}
+
+.imgholder {
+  height: 108px;
+  width: 360;
+}
+.teamimg {
+  width: 100%;
+}
+
+ul {
+  list-style: none;
+}
+
+.footbg {
+  background-color: whitesmoke;
+}
+
+.logocont {
+  display: flex;
+  flex-flow: column;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logocont1 {
+  display: flex;
+  flex-flow: column;
+  justify-content: space-between;
+  align-items: left;
+}
+.btncont {
+  display: flex;
+  flex-flow: column;
+  justify-content: space-between;
+  text-align: center;
+}
+
+.finalbtn {
+  display: block;
+  display: flex;
+  flex-flow: column;
+  justify-content: center;
+  text-align: center;
+}
+
+container {
+  width: 100%;
+  padding-right: 0;
+  padding-left: 0;
+  margin-right: 0;
+  margin-left: 0;
+}
+
+.nav_link_item {
+  color: rgb(0, 0, 0) !important;
+  font-weight: 500;
+  font-size: 16px;
+  font-family: Poppins, sans-serif;
+}
+
+
+.parahead {
+    font-size: 18px;
+    font-weight: 700;
+    font-family: Poppins,sans-serif;
+    color: black;
+}
+
+.paratext1 {
+    font-size: 14px;
+    font-weight: 400;
+    font-family: Inter,sans-serif;
+    color: #405868;
+}
+
+.parahead1 {
+    font-size: 15px;
+    font-weight: 500;
+    font-family: Inter,sans-serif;
+    color: #405868;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.paratext2 {
+    font-size: 14px;
+    font-weight: 400;
+    font-family: Inter,sans-serif;
+    color: #405868;
+    text-align: center;
+}
+
+.parahead2 {
+    font-size: 18px;
+    font-weight: 500;
+    font-family: Inter,sans-serif;
+    color:#0bd7cc;
+    padding: 10px;  
+}
+
+.paratext3 {
+    font-size: 16px;
+    font-weight: 400;
+    font-family: Inter,sans-serif;
+    color: #405868;
+}
+
+.parahead {
+    font-size: 28px;
+    font-weight: 700;
+    font-family: Poppins,sans-serif;
+    color: black;
+}
+.foothead {
+    font-size: 34px;
+    font-weight: 700;
+    font-family: Poppins,sans-serif;
+    color: black;
+    padding: 10px;
+}
+
+.foottext {
+    font-size: 20px;
+    font-weight: 400;
+    font-family: Inter,sans-serif;
+    color: #405868;
+    padding: 10px;
+}
+
+.mobhead {
+    font-size: 20px;
+    font-weight: 500;
+    font-family: Inter,sans-serif;
+    color:#f786b6;
+    padding: 10px;  
+}
+
+.bluehead {
+    font-size: 15px;
+    font-weight: 500;
+    font-family: Inter,sans-serif;
+    color:blue;
+    padding-bottom: 20px;
+}
+
+.bluetext {
+    font-size: 18px;
+    font-weight: 500;
+    font-family: Inter,sans-serif;
+    color:black; 
+}
+
+.parablue {
+    font-size: 14px;
+    font-weight: 400;
+    font-family: Inter,sans-serif;
+    color: #405868;
+}

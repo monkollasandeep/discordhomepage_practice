@@ -1,0 +1,37 @@
+.main {
+    background-color: whitesmoke;
+    background-size: cover;
+}
+.navItem {
+    font-family: 'urw-din', 'Helvetica Neue', 'Helvetica', sans-serif;
+    font-weight: bold;
+    font-size: medium;
+}
+
+.sidebar{
+    background-color: rgb(226, 220, 220);
+    height: 572px;
+    width: 350px;
+}
+
+.peoplebar{
+    height: 60px;
+    width: 350px;
+    background-color: rgb(218, 205, 205);
+    border-width: 1px;
+    border-style: solid;
+    border-bottom: thin;
+    border-right: thin;
+    border-color: rgb(136, 133, 122);
+}
+
+.namebar{
+    height: 150px;
+    width: 350px;
+    background-color: rgb(218, 205, 205);
+    border-width: 1px;
+    border-style: solid;
+    border-bottom: thin;
+    border-right: thin;
+    border-color: rgb(136, 133, 122);
+}
